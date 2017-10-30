@@ -1,0 +1,22 @@
+<gcard>
+
+	<option name="geometry" value="800x600" />
+          
+	<!--	RICH Detector	-->
+      
+       <detector name="rich" factory="TEXT" variation="original"/>
+
+
+	<!--	PHYS and OUTPUT	-->
+       <option name="PHYSICS" value="FTFP_BERT + STD + Optical"/>
+
+        <option name="INTEGRATEDRAW" value="rich"/>
+        <option name="OUTPUT"   value="evio, CosmicTest.evio"/>
+
+
+        
+        
+<option name="COSMICRAYS"   value="default, 1, 10"/>
+            <option name="COSMICAREA"   value="0*cm,130*cm, 0*cm, 10*cm"/>
+<option name= "HALL_MATERIAL" value="Air_Opt"/>
+</gcard>
