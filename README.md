@@ -1,2 +1,2 @@
 # Simulation-for-Cosmic
-Cosmic Simu 
+Cosmic Simulation software for the Ring Imaging Cherenkov Detector Prorotype.
